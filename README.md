@@ -1,8 +1,7 @@
 # Purchase-Prediction-with-Decision-Trees
 # Project 2 — Purchase Prediction with Decision Trees
 
-**Author:** (Your Name)
-**Date:** (Today's date)
+
 
 ---
 
